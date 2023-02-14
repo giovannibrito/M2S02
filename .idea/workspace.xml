@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf740b02-ac2b-4e66-98e5-a270c965208e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,14 +44,7 @@
     "settings.editor.selected.configurable": "Errors"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex06">
-    <configuration name="Ex02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex02" />
-      <module name="M2S02" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex07">
     <configuration name="Ex03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex03" />
       <module name="M2S02" />
@@ -80,13 +73,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex07" />
+      <module name="M2S02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex07" />
         <item itemvalue="Application.Ex06" />
         <item itemvalue="Application.Ex05" />
         <item itemvalue="Application.Ex04" />
         <item itemvalue="Application.Ex03" />
-        <item itemvalue="Application.Ex02" />
       </list>
     </recent_temporary>
   </component>
