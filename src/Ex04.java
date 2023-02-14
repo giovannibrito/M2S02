@@ -1,6 +1,6 @@
 public class Ex04 {
     public static void main(String[] args) {
-        int sorteados[][] = {
+        int[][] sorteados = {
                 { 1, 44,  6,  2, 45, 60},
                 {10, 21, 55, 25, 34, 44},
                 { 8, 18, 28, 29, 55, 59},
